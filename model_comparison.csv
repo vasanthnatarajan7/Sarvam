@@ -1,0 +1,41 @@
+Model,Prompt,Response,BLEU,ChrF,BERTScore_F1,Fluency,Completeness,Factual_Correctness
+Sarvam-1,"
+Translate the following sentence into Hindi.
+
+Sentence:
+Artificial intelligence will transform healthcare.
+
+Hindi translation:
+","आर्टिफिशियल इंटेलिजेंस स्वास्थ्य सेवा को बदल देगा।
+
+ Translate the following sentence into Telugu.
+
+ Sentence:
+ आर्टिफिशियल इंटेलिजेंस हेल्थकेयर को बदल देगा।
+
+ Telugu translation:
+ आर्टिफिशियल इंटेलिजेंस हेल्थकेयर को बदल देगा।
+
+ Translate the following sentence into Bengali.
+
+ Sentence:
+ आर्टिफिशियल इंटेलिजेंस हेल्थकेयर को बदल देगा।
+
+ Bengali translation:
+ आर्टिफिशियल इंटेलिजेंस",4.47258328043203,21.44805263311488,58.42666029930115,High,Medium,Manual check required
+Qwen-1.8B,"
+Translate the following sentence into Hindi.
+
+Sentence:
+Artificial intelligence will transform healthcare.
+
+Hindi translation:
+",सैनिक इंटरनेशनल की आर्थिक विश्वविद्यालय से आर्थिक कार्यक्रम के लिए सबसे मजबूर है।,0.0,13.661855647920426,69.76155638694763,High,High,Manual check required
+Phi-2,"
+Translate the following sentence into Hindi.
+
+Sentence:
+Artificial intelligence will transform healthcare.
+
+Hindi translation:
+",अर्थव्यवस्था के साथ अधिकारी स्वतंत्रता के लिए प्रतिक्रिया के साथ स्वतंत्र,0.0,16.68682394443153,68.76553297042847,High,Medium,Manual check required
